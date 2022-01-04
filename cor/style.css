@@ -1,0 +1,34 @@
+body{
+    background-color: green;
+}
+
+.card{
+    
+    width: 400px;
+    height: 200px;
+    box-sizing: border-box;
+    padding: 1px 20px;
+    background: url('./../img/fundo.jpg') no-repeat; 
+    border: 5px solid yellow;
+    background-size: cover;
+    margin: auto;
+    margin-top: 10%;
+
+}
+a{
+    
+    text-decoration: none;
+    color: greenyellow;
+}
+
+li{
+    list-style: none;
+    text-align: center;
+    font-size: 2vw;
+    color: black;
+}
+
+.Name{
+    color: black;
+}
+
